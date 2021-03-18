@@ -1,0 +1,7 @@
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\bin\Debug\ByteBank-Employees.exe.config
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\bin\Debug\ByteBank-Employees.exe
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\bin\Debug\ByteBank-Employees.pdb
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\obj\Debug\ByteBank-Employees.csprojAssemblyReference.cache
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\obj\Debug\ByteBank-Employees.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\obj\Debug\ByteBank-Employees.exe
+C:\Users\Denise\Documents\GitHub\ByteBank-Employees\ByteBank-Employees\obj\Debug\ByteBank-Employees.pdb
