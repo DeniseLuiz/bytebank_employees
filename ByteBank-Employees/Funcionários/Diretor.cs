@@ -6,18 +6,11 @@ using System.Threading.Tasks;
 
 namespace ByteBank_Employees.Funcionários
 {
-    public class Diretor
-    {
-        public string Nome { get; set; }
-        public string CPF { get; set; }
-        public double Salario { get; set; }
-
-
-        public double GetBonificacao()
+    public class Diretor : Funcionario
+    { 
+        public override double GetBonificacao()
         {
-          
             return Salario;
-          
         }
 
     }
