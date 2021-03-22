@@ -47,8 +47,10 @@
     <Compile Include="Funcionários\Designer.cs" />
     <Compile Include="Funcionários\Diretor.cs" />
     <Compile Include="Funcionários\Funcionario.cs" />
+    <Compile Include="Funcionários\FuncionarioAutenticavel.cs" />
     <Compile Include="Funcionários\GerenteDeConta.cs" />
     <Compile Include="GerenciadorBonificacao.cs" />
+    <Compile Include="ParceiroComercial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sistemas\Autenticavel.cs" />
