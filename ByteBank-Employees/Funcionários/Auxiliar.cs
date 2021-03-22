@@ -20,7 +20,7 @@ namespace ByteBank_Employees.Funcionários
 
         public override void AumentarSalario()
         {
-            base.AumentarSalario();
+            Salario += 1.10;
         }
     }
 
