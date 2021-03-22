@@ -23,8 +23,10 @@ namespace ByteBank_Employees.Funcionários
             TotalDeFuncionaios++;
         }
 
+        //TORNA OBRIGATÓRIO
         public abstract double GetBonificacao();
 
+        //TORNA OBRIGATÓRIO
         public abstract void AumentarSalario();
     }
 }
