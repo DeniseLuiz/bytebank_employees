@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank_Employees
 {
-    public class ParceiroComercial : Autenticavel
+    public class ParceiroComercial : IAutenticavel
     {
         public string Senha { get; set; }
 

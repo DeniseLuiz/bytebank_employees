@@ -13,10 +13,9 @@ namespace ByteBank_Employees
     {
         static void Main(string[] args)
         {
-            //CalcularBonificacao();
+            CalcularBonificacao();
             UsarSistema();
             Console.ReadLine();
-
         }
 
         public static void UsarSistema()
