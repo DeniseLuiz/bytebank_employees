@@ -1,5 +1,5 @@
 ﻿using ByteBank;
-using ByteBank_Employees.Funcionários;
+using ByteBank_Employees.Funcionarios;
 using ByteBank_Employees.Sistemas;
 using System;
 using System.Collections.Generic;

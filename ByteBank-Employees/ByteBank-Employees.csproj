@@ -43,12 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Funcionários\Auxiliar.cs" />
-    <Compile Include="Funcionários\Designer.cs" />
-    <Compile Include="Funcionários\Diretor.cs" />
-    <Compile Include="Funcionários\Funcionario.cs" />
-    <Compile Include="Funcionários\FuncionarioAutenticavel.cs" />
-    <Compile Include="Funcionários\GerenteDeConta.cs" />
+    <Compile Include="Funcionarios\Auxiliar.cs" />
+    <Compile Include="Funcionarios\Desenvolvedor.cs" />
+    <Compile Include="Funcionarios\Designer.cs" />
+    <Compile Include="Funcionarios\Diretor.cs" />
+    <Compile Include="Funcionarios\Funcionario.cs" />
+    <Compile Include="Funcionarios\FuncionarioAutenticavel.cs" />
+    <Compile Include="Funcionarios\GerenteDeConta.cs" />
     <Compile Include="GerenciadorBonificacao.cs" />
     <Compile Include="ParceiroComercial.cs" />
     <Compile Include="Program.cs" />

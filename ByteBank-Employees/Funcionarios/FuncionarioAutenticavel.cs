@@ -1,11 +1,12 @@
-﻿using ByteBank_Employees.Sistemas;
+﻿using ByteBank_Employees.Funcionarios;
+using ByteBank_Employees.Sistemas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBank_Employees.Funcionários
+namespace ByteBank_Employees.Funcionarios
 {
     public abstract class FuncionarioAutenticavel : Funcionario , IAutenticavel
     {

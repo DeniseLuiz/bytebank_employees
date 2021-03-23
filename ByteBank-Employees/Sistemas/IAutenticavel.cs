@@ -1,4 +1,4 @@
-﻿using ByteBank_Employees.Funcionários;
+﻿using ByteBank_Employees.Funcionarios;
 using System;
 using System.Collections.Generic;
 using System.Linq;

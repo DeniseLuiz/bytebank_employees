@@ -4,16 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ByteBank_Employees.Funcionários
+namespace ByteBank_Employees.Funcionarios
 {
-    public class Desenvolvedor: Funcionario
+    public class Auxiliar : Funcionario
     {
-        public Desenvolvedor(double salario, string cpf) : base(salario, cpf)
+        public Auxiliar( string cpf) : base(2000, cpf)
         {
 
         }
 
-        //DADOS OBRIGARÓRIOS, EM VIRTUDE DO ABSTRACT DA CLASSE FUNCIONÁRIO
         public override double GetBonificacao()
         {
             return Salario * 0.20;
@@ -24,4 +23,5 @@ namespace ByteBank_Employees.Funcionários
             Salario += 1.10;
         }
     }
+
 }
